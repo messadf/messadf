@@ -5,7 +5,7 @@ love building. gradually learning frontend & devops, moving to fullstack.
 - lang: python, javascript, typescript, sql;
 - database: mongodb, sqlite, postgresql, supabase;
 - tools: git, docker, docker compose, linux, vite;
-- backend: python (django, drf, fastapi); frontend: react (js / ts), jinja
+- backend: python (django, drf, fastapi); frontend: react (js / ts), jinja, tailwindcss
 
 love running. struggling to get outside these days, hoping to properly solve this problem. 
 - completing 5k in 23 minutes; 3k in 13 minutes
